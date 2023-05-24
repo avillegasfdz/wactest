@@ -3,3 +3,5 @@ djangorestframework
 psycopg2-binary
 Pillow
 django-extensions
+django-extra-fields
+mock
